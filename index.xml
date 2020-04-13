@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About | Hank Lu</title>
+    <title>Hank Lu</title>
     <link>https://me.hanklu.tw/</link>
       <atom:link href="https://me.hanklu.tw/index.xml" rel="self" type="application/rss+xml" />
-    <description>About | Hank Lu</description>
+    <description>Hank Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://me.hanklu.tw/img/avatar.jpg</url>
-      <title>About | Hank Lu</title>
+      <title>Hank Lu</title>
       <link>https://me.hanklu.tw/</link>
     </image>
     
